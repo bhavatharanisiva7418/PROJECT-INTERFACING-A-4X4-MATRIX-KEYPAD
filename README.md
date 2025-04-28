@@ -125,6 +125,7 @@ Jump to second line, position 2
 ![image](https://github.com/user-attachments/assets/1fb8c3e5-d403-4927-b2f8-20251a763dfc)
 4.select the program name
 ![image](https://github.com/user-attachments/assets/87e61adc-e8cb-4157-b072-ca17da345bbe)
+
 5.corresponding ioc file will be generated automatically
 ![image](https://github.com/user-attachments/assets/45f286d7-829f-4ffe-98c8-40181a73a5d3)
 6.select the appropriate pins as gipo, in or out, USART or required options and configure
