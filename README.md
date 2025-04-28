@@ -116,31 +116,28 @@ C2
 Jump to second line, position 2
 
 ## Procedure:
-
+1.click on debug option
 ![image](https://github.com/user-attachments/assets/fa1342cb-cb55-41ee-bc7a-0b218db5facd)
-
+2.click on FILE, click on new stm 32 project
 ![image](https://github.com/user-attachments/assets/d4744806-5ae9-4432-9f49-e3053354e401)
-
 ![image](https://github.com/user-attachments/assets/ed248037-6ac3-441a-8511-86478cc5fd9d)
-
+3.select the target to be programmed as shown below and click on next
 ![image](https://github.com/user-attachments/assets/1fb8c3e5-d403-4927-b2f8-20251a763dfc)
-
+4.select the program name
 ![image](https://github.com/user-attachments/assets/87e61adc-e8cb-4157-b072-ca17da345bbe)
-
+5.corresponding ioc file will be generated automatically
 ![image](https://github.com/user-attachments/assets/45f286d7-829f-4ffe-98c8-40181a73a5d3)
-
+6.select the appropriate pins as gipo, in or out, USART or required options and configure
 ![image](https://github.com/user-attachments/assets/284b283b-c842-4a5b-98ba-dfa2d0d62f02)
-
 ![image](https://github.com/user-attachments/assets/14132bb4-ebb4-4a02-ac6d-00caf43b4768)
-
+7.click on cntrl+S , automaticall C program will be generated
 ![image](https://github.com/user-attachments/assets/f6232417-7fbe-496c-bf23-ce9b8e241937)
-
 ![image](https://github.com/user-attachments/assets/feca6749-a25f-418e-b5f3-0f50d1c42fae)
-
+8. edit the program and as per required
 ![image](https://github.com/user-attachments/assets/07535ff9-3cb7-4a73-86a7-29a82ace4b3d)
-
+9.Add necessary library files of LCD 16x2 , write the program and use project and build
 ![image](https://github.com/user-attachments/assets/8ce2b2d2-ceee-45be-a37e-cdc976f110ec)
-
+10. once the project is bulild
 ![image](https://github.com/user-attachments/assets/6000356a-1342-4f15-ab3c-02b53d23ca82)
 
 11.click on debug option 
